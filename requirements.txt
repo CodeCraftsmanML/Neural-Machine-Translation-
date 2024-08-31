@@ -1,0 +1,6 @@
+langchain
+gradio
+transformers
+torch
+python-dotenv
+sentencepiece
